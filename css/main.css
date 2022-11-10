@@ -1,0 +1,142 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: transparent linear-gradient(154deg, #0066FF 0%, #1D63FE 9%, #3A61FD 21%, #575EFC 34%, #755CFB 46%, #9259FA 55%, #AF57F9 68%, #CC54F8 82%, #EA52F8 100%) 0% 0% no-repeat padding-box;
+    overflow: hidden;
+    height: 100vh;
+}
+
+main {
+    overflow: hidden;
+    height: 105vh;
+}
+
+.pt-4::-webkit-scrollbar {
+    width: 0px;
+}
+
+.pt-4::-webkit-scrollbar-thumb {
+    background: transparent linear-gradient(154deg, #0066FF 0%, #1D63FE 9%, #3A61FD 21%, #575EFC 34%, #755CFB 46%, #9259FA 55%, #AF57F9 68%, #CC54F8 82%, #EA52F8 100%) 0% 0% no-repeat padding-box;
+}
+
+.pt-4 {
+    background: #fff;
+    height: 97vh;
+    position: relative;
+    top: 10px;
+    border-radius: 40px;
+    overflow-y: scroll;
+    max-width: 99%;
+}
+
+.fs-5 {
+    margin-top: 10px;
+}
+
+.main-container {
+    width: 80%;
+}
+
+.overflow-y-auto {
+    overflow-y: auto !important;
+}
+
+.overflow-x-hidden {
+    overflow-x: hidden !important;
+}
+
+.owl-theme .owl-nav {
+    position: relative;
+    text-align: right;
+    padding-right: 60px;
+    top: -185px;
+}
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+    font-size: 1.5rem;
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+    background: none;
+    color: none;
+}
+
+.owl-carousel {
+    height: 135px;
+}
+
+@media (max-width: 720px) {
+    main {
+        overflow-y: scroll;
+    }
+
+    .pt-4 {
+        background: #fff;
+        height: 96vh;
+        position: relative;
+        top: 9px;
+        border-radius: 40px;
+        overflow-y: scroll;
+        max-width: 99%;
+    }
+
+    .pt-4,
+    body {
+        overflow-y: auto;
+    }
+
+    .fs-5 {
+        margin-top: -15px;
+    }
+
+    .main-container {
+        width: 60%;
+    }
+
+    .owl-theme .owl-nav {
+        padding-right: 15px;
+    }
+}
+
+@media (min-width: 720px) and (max-width: 991px) {
+
+    /* body,
+    main {
+        height: 2000px;
+        overflow: auto;
+    } */
+
+    main {
+        overflow-y: scroll;
+    }
+
+    .pt-4 {
+        height: 95vh;
+    }
+
+    .main-container {
+        width: 60%;
+    }
+
+    .first-row h2 {
+        font-size: 1.6rem;
+    }
+
+    .statics-box {
+        max-width: 110px;
+    }
+
+    .second-row #hours img {
+        left: 85px !important;
+    }
+
+
+
+    .third-row {
+        margin-top: 35%;
+    }
+}

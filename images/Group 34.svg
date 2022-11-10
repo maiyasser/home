@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_34" data-name="Group 34" transform="translate(-1800 -40)">
+    <g id="Group_22" data-name="Group 22" transform="translate(1655)">
+      <path id="Path_3" data-name="Path 3" d="M30,0A30,30,0,1,1,0,30,30,30,0,0,1,30,0Z" transform="translate(145 40)" fill="#2aa1cc" opacity="0.1"/>
+      <g id="Notification" transform="translate(5 23)">
+        <g id="Iconly_Bulk_Notification" data-name="Iconly/Bulk/Notification" transform="translate(156.5 33)">
+          <g id="Notification-2" data-name="Notification" transform="translate(3.5 2)">
+            <path id="Fill_1" data-name="Fill 1" d="M19.45,11.531a4.644,4.644,0,0,1-1.27-3.405V7.616a6.63,6.63,0,0,0-1.429-4.478A8.418,8.418,0,0,0,10.215,0h-.106a8.454,8.454,0,0,0-6.43,3A6.723,6.723,0,0,0,2.143,7.616v.511a4.541,4.541,0,0,1-1.27,3.405A4.021,4.021,0,0,0,0,14.293a4.314,4.314,0,0,0,1.033,2.843A5.418,5.418,0,0,0,4.5,18.825a49.788,49.788,0,0,0,5.663.295c1.9,0,3.783-.135,5.663-.295a5.418,5.418,0,0,0,3.466-1.689,4.32,4.32,0,0,0,1.033-2.843,4.021,4.021,0,0,0-.873-2.762" transform="translate(0 0)" fill="#191e24"/>
+            <path id="Fill_4" data-name="Fill 4" d="M5.9.1A30.6,30.6,0,0,0,1.063.1C.553.214,0,.488,0,1.09a1.853,1.853,0,0,0,.832,1.4h0a4.346,4.346,0,0,0,2.05.875,4.586,4.586,0,0,0,1.2,0,4.347,4.347,0,0,0,2.048-.875h0a1.853,1.853,0,0,0,.832-1.4C6.964.488,6.411.214,5.9.1" transform="translate(6.663 20.501)" fill="#191e24" opacity="0.4"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="7" cy="7" r="7" transform="translate(1840 40)" fill="#f72a37"/>
+  </g>
+</svg>

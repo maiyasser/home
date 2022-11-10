@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_23" data-name="Group 23" transform="translate(-60 -40)">
+    <g id="power" transform="translate(-182 23)">
+      <path id="Path_4" data-name="Path 4" d="M30,0A30,30,0,1,1,0,30,30,30,0,0,1,30,0Z" transform="translate(242 17)" fill="#2aa1cc" opacity="0.1"/>
+      <g id="Iconly_Bulk_Profile" data-name="Iconly/Bulk/Profile" transform="translate(257 31)">
+        <g id="Profile" transform="translate(4 2)">
+          <path id="Fill_1" data-name="Fill 1" d="M11.046,0C5.088,0,0,.939,0,4.7S5.057,9.427,11.046,9.427c5.957,0,11.046-.938,11.046-4.7S17.036,0,11.046,0" transform="translate(0 18.197)" fill="#191e24"/>
+          <path id="Fill_4" data-name="Fill 4" d="M7.309,14.619A7.309,7.309,0,1,0,0,7.309a7.283,7.283,0,0,0,7.309,7.309" transform="translate(3.736 0)" fill="#191e24" opacity="0.4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

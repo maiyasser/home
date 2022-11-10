@@ -1,0 +1,156 @@
+@media   (min-width: 1000px) {
+    .first-row {
+        margin-bottom: 2rem;
+    }
+    .fourth-row {
+        margin-top: 1rem;
+    }
+  
+
+}
+
+
+@media (min-width: 720px) and (max-width: 1000px) {
+    .side-bar .nav-item {
+        /* width: 114%; */
+        /* margin-bottom: 17px; */
+        margin-top:2rem;
+        cursor: default;
+    }
+    .third-row{
+        padding-left: 0px;
+    }
+
+    .third-row .deploma{
+        display: block;
+        margin-top: 1rem;
+        width: 100%;
+    }
+    .continue-video-text{
+        display: block;
+        margin-top: 1rem;
+    
+    }
+    .second-row {
+        display: block;
+        padding: 20px;
+        padding-top: 5px;
+        /* padding-bottom: 28vh; */
+        /* height: 20vh; */
+    }
+    .second-row #courses-cont h2 {
+        margin-top: 1rem;
+    }
+    .first-row {
+        margin-bottom: 32px;
+    }
+    .fourth-row {
+        margin-top: 1rem;
+    }
+    .second-row {
+       padding: 0px;  
+    }
+    .second-row .statics {
+        padding: 1rem 1rem;
+
+    }
+}
+
+/* //////////////////////// */
+@media (max-width:720px) {
+
+    .side-bar .logo {
+        width: 45px;
+        height: 45px;
+        /* margin-top: 10px; */
+    }
+    .statics-box-flex{
+        display: block;
+    }
+    .third-row .deploma {
+        display: block;
+         
+        width: 100%;
+         
+    
+    }
+       .side-bar{
+        height: 6rem;
+       }
+    .girl-boxs{
+        display: none;
+        /* visibility: hidden; */
+    }
+    .second-row #courses-cont h2 {
+        margin-top: 1rem;
+    }
+    .statics-box{
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    
+ 
+.second-row #hours{
+    width: 100%;
+    max-width: 377px;
+}
+    /* .box-3{
+        width: 100%;
+    } */
+
+    .side-bar .active,
+    .side-bar .nav-item {
+        border-radius: 20px;
+        width: 65px;
+        margin-bottom: 29px;
+        margin-left: 10px;
+        margin-top: 25px;
+    }
+
+    .side-bar .active {
+        background-color: #fff;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 30px;
+        margin-left: 10px;
+    }
+
+    .side-bar .nav-item i {
+        font-size: 1.3rem;
+    }
+    .first-row {
+        height: 8vh;
+      
+            /* margin-top: 9rem; */
+            /* padding-left: 45px; */
+            /* height: 10vh; */
+    
+    }
+    .first-row h2 {
+    
+        min-width: 265px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 15px;
+    }
+}
+/* ////////////////////////////////// */
+@media (max-width:600px) {
+    .third-row .deploma {
+        margin-bottom: 10px;
+    }
+    .first-row  {
+    
+         margin-bottom: 7rem;
+    }
+    .second-row .statics{
+        padding-left: 0px;
+    }
+    .third-row {
+        padding-left: 0px;
+
+    }
+    .fourth-row {
+        padding-left: 0px;
+        
+    }
+}

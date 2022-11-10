@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Iconly_Bulk_Time_Circle" data-name="Iconly/Bulk/Time Circle" transform="translate(-2 -2)">
+    <g id="Time_Circle" data-name="Time Circle" transform="translate(2 2)">
+      <path id="Fill_1" data-name="Fill 1" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10" fill="#969fa4" opacity="0.4"/>
+      <path id="Fill_4" data-name="Fill 4" d="M4.675,8.889a.756.756,0,0,1-.384-.1L.365,6.442A.754.754,0,0,1,0,5.8V.75a.75.75,0,0,1,1.5,0V5.371L5.06,7.494a.75.75,0,0,1-.385,1.395" transform="translate(8.899 4.925)" fill="#191e24"/>
+    </g>
+  </g>
+</svg>
